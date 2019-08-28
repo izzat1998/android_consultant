@@ -1,0 +1,110 @@
+<resources>
+    <string name="app_name">Consultant</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string-array name="filials">
+        <item></item>
+        <item>Себзор</item>
+        <item>Хамза </item>
+        <item>Октепа</item>
+    </string-array>
+    <string-array name="konsultants">
+        <item></item>
+        <item>Шохрух</item>
+        <item>Сардор</item>
+        <item>Абдуллох</item>
+        <item>Расул</item>
+        <item>Зиёдилла</item>
+        <item>Атхам</item>
+        <item>Хуршид</item>
+        <item>Шохида</item>
+        <item>Дониёр</item>
+        <item>Мухаммад</item>
+    </string-array>
+    <string-array name="otkudauznal">
+        <item></item>
+        <item>Мимо проходил </item>
+        <item>Сайт </item>
+        <item>Фейсбук</item>
+        <item>Телеграм</item>
+        <item>Инстаграм</item>
+        <item>Колл-центр </item>
+        <item>От друзей </item>
+        <item>Повторный клиент </item>
+        <item>Постоянный клиент</item>
+
+
+    </string-array>
+    <string-array name="status">
+        <item></item>
+        <item>***</item>
+        <item>**</item>
+        <item>*</item>
+
+    </string-array>
+    <string-array name="kategoriya">
+        <item>Категория</item>
+        <item>Спальный гарнитур</item>
+        <item>Горка-комод</item>
+        <item>Горка</item>
+        <item>Комод</item>
+        <item>Пенал</item>
+        <item> Пенал-ТВ</item>
+        <item> Пенал-комод</item>
+        <item>Угловой пенал</item>
+        <item>Диван кресло</item>
+        <item>Мягкий уголок</item>
+        <item> Модульный диван</item>
+        <item>Диван-кровать</item>
+        <item> Кресло-кровать</item>
+        <item>Шкаф</item>
+        <item>Прихожая</item>
+        <item>Двуспальный кровать</item>
+        <item>Односпальный кровать</item>
+        <item>Матрас</item>
+        <item> Стол-стул</item>
+        <item>Стул</item>
+        <item>Стол</item>
+        <item>Кухонный уголок</item>
+        <item>Кухонный стол-стул</item>
+        <item>Детский набор</item>
+        <item>Люлька</item>
+        <item>Двухъярусный кровать</item>
+        <item> Офисный набор</item>
+        <item>Компьютерный стол</item>
+        <item>Сундук</item>
+        <item>Вешалка</item>
+        <item> Журнальный столик</item>
+        <item>Консоль</item>
+        <item> Под обувь</item>
+        <item>Под-тв</item>
+        <item>Каминь</item>
+        <item>Пуфик</item>
+        <item>Банкетка</item>
+        <item>Куханный шкаф</item>
+        <item>Заказ "Спальня"</item>
+        <item>Заказ "Детский"</item>
+        <item> Заказ "Прихожая"</item>
+        <item> Заказ "Гардероб"</item>
+        <item>Заказ "Офисный"</item>
+
+
+    </string-array>
+    <string-array name="tipmodeli">
+        <item></item>
+        <item>Классика</item>
+        <item>Хайтек</item>
+        <item>Хайтек-Классика</item>
+
+    </string-array>
+    <string-array name="xarakter">
+        <item></item>
+        <item>Кувнок</item>
+        <item>Камгап</item>
+        <item>Жиддий</item>
+        <item>Юмшок</item>
+        <item>Босик</item>
+    </string-array>
+</resources>
