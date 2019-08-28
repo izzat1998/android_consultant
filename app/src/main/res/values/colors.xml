@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2E3137</color>
+    <color name="colorPrimaryDark">#0F0D0D</color>
+    <color name="colorAccent">#888787</color>
+    <color name="colorDark">#22262B</color>
+    <color name="fontcolor">#B8C0CC</color>
+    <color name="white">#ffff</color>
+    <color name="my_spinner_text_color">#ffff</color>
+    <color name="backgroundspinner">#696969</color>
+    <color name="green">#FC0AA002</color>
+    <color name="red">#FCE00000</color>
+    <color name="lightgrey">#22262B</color>
+    <color name="swhite">#B9BCBE</color>
+    
+    <color name="disable_foreground_grey">#FC0AA002</color>
+    <color name="disable_thumb_grey">#1c000000</color>
+    <color name="enable_thumb_green">#46bdbf</color>
+
+</resources>
+    
